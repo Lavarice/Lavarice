@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img width="1281" height="716" alt="image" src="https://github.com/user-attachments/assets/557fa82b-9c46-47f0-94e0-db9e3719fb74" />
+
 I’m **Lavarice**, a web developer who enjoys building practical tools, automations and small web apps that solve real problems.  
 I like clean, readable code, simple architectures and projects that people actually use.
 
